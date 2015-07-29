@@ -8,3 +8,5 @@ CREATE TABLE `chat` (
   PRIMARY KEY (`id`)
 )
 ENGINE = InnoDB;
+
+new
